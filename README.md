@@ -1,2 +1,5 @@
-# Build-sphere
-BuildSphere is a Java-based construction management system developed using Java Swing, JDBC, and MySQL. It manages projects, workers, attendance, materials, equipment, daily progress reports, and safety records efficiently.
+🏗️ BuildSphere | Construction Management System
+
+A modern, web-based platform built with Java & Spring Boot to simplify construction operations through role-based dashboards, project tracking, workforce management, attendance, materials, equipment, daily progress, safety monitoring, and insightful reports.
+
+⚡ Build • Manage • Deliver
